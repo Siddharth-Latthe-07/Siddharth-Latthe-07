@@ -1,3 +1,4 @@
+![logo]()
 <h1 align="center">Hi 👋, I'm Siddharth Latthe</h1>
 <h3 align="center">A ML, Data Science Enthusiast</h3>
 
